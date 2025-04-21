@@ -14,7 +14,8 @@ The aim of this project is to explore housing market trends in Paris using a dat
 - Present insights through data visualization and interpretation
 
 ## 🔧 Tools & Technologies
-- Python (Pandas, NumPy,Seaborn, Matplotlib)
+- Python (Pandas, NumPy,SciPy)
+- Matplotlib
 - Scikit-learn (Linear Regression, R² Score)
 - Jupyter Notebook
 - Data Preprocessing, Feature Selection, and Model Evaluation
